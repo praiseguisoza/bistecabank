@@ -1,0 +1,4 @@
+101;Bisteca Silva;15420.50
+102;Ana Souza;3250.00
+103;Carlos Eduardo;890.75
+345;alec;6767.00
